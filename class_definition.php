@@ -1,5 +1,6 @@
 <?php
 //how to define a class of an oci_fetch_object
+//class is an object
 
 class Cars {
 //Class definition goest here (properties, variables, methods and functions)

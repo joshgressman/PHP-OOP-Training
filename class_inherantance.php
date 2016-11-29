@@ -14,5 +14,5 @@ class Trucks extends Cars { // extend will inherit properties and methods from C
 }
 
 $silverado = new Trucks();
-echo $silverado->wheels;
+echo $silverado->wheels; // inherits wheel value from Cars class with extend in trucks
  ?>
